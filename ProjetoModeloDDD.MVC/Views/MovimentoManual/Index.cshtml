@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ProjetoModeloDDD.MVC.ViewModels.MovimentoManualViewModel>
+
+<p>
+    @Html.ActionLink("Novo", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Mês
+        </th>
+        <th>
+            Ano
+        </th>
+        <th>
+            Código do Produto
+        </th>   
+        <th>
+            Descrição do Produto
+        </th>
+        <th>
+            NR Lançamento
+        </th>
+        <th>
+            Descrição
+        </th>
+        <th>
+            Valor
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.DAT_MES)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DAT_ANO)
+    </td>
+    <td>
+        PROD @Html.DisplayFor(modelItem => item.COD_PRODUTO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Produto.DES_PRODUTO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.NUM_LANCAMENTO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DES_DESCRICAO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.VAL_VALOR)
+    </td>
+
+</tr>
+    }
+</table>
+
+

@@ -1,0 +1,14 @@
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb

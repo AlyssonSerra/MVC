@@ -1,0 +1,6 @@
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projetos\Estudo\SINQIA\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
